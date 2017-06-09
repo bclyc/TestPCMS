@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Needed Jars/JFlex.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/jxl-2.4.2.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/substance.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/trident.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/JFreeChart jars/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/JFreeChart jars/iText-2.1.5.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/JFreeChart jars/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/JFreeChart jars/jfreechart-1.0.13-experimental.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/JFreeChart jars/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/JFreeChart jars/junit.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/JFreeChart jars/servlet.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/JFreeChart jars/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/mysql-connector-java-5.1.37-bin.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/mysql-connector-java-5.0.8-bin-g.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/calendar.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/jdatepicker-1.3.4.jar"/>
+	<classpathentry kind="lib" path="Needed Jars/dom4j-2.0.0-RC1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
